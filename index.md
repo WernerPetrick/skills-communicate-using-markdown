@@ -5,3 +5,8 @@
 ```ruby
 before_action :authenticate_user!
 ```
+
+
+- [x] Learn Github
+- [x] Learn Programming
+- [ ] Buy Milk
